@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
+  "name": "com.adbloop/meta-ads-mcp",
+  "description": "Create and manage Facebook & Instagram (Meta) ad campaigns from Claude, ChatGPT, and Cursor — bulk creation, multi-account, spend guardrails, and reporting. Hosted, Meta Verified Tech Provider.",
+  "repository": {
+    "url": "https://github.com/Adbloop/meta-ads-mcp",
+    "source": "github"
+  },
+  "version": "0.1.0",
+  "websiteUrl": "https://adbloop.com/mcp/",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.adbloop.com/mcp"
+    }
+  ]
+}
