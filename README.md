@@ -100,3 +100,10 @@ Meta Ads MCP · Facebook Ads MCP · Facebook Ads automation · Meta Ads automati
 ## License
 
 [Business Source License 1.1](./LICENSE) — free to use and self-reference; converts to Apache 2.0 on 2029-01-01. You may not use it to offer a competing hosted Meta Ads MCP service.
+
+
+## Troubleshooting
+
+Ads published but not spending, or stuck in learning? Common causes and fixes for Meta ad delivery problems:
+
+- [Why your Meta ads aren't delivering: a 15-point pre-flight diagnostic](https://adbloop.com/meta-ads-not-delivering/)
